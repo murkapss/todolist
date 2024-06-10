@@ -26,7 +26,7 @@ class TodoProvider extends ChangeNotifier {
     titleController.clear();
     textController.clear();
   }
-
+// asdasda
   // удаление заметки
 
   Future<void> deleteNote(int index) async {
